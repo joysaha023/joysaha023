@@ -4,8 +4,8 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋+Welcome+to+My+Profile!;I+am+Frontend+Developer;I+am+MERN+Stack+Developer;Always+learning+new+things+;)](https://git.io/typing-svg)
 
+
  ## Description
-<br />
 <p align="left">
   Specializing in MERN (MongoDB, Express.js, React.js, Node.js) stack development, I design and build robust web applications. My work involves creating dynamic and responsive user interfaces, optimizing server-side functionalities, and leveraging the power of MongoDB for efficient data management. With a passion for clean code and innovative solutions, I bring ideas to life in the ever-evolving landscape of MERN development. Let's connect and elevate your web experience together!
 </p>
@@ -17,6 +17,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/joysaha023?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
       </a>
    </p>
+
 
 ## Technologies
 <p align="center">
@@ -38,6 +39,7 @@
 </p>
 <br>
 
+
 ## Profile Details
 
 <br />
@@ -46,6 +48,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joysaha023&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
+
 
 ## Activities
 
@@ -57,6 +60,7 @@
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joysaha023&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </p>
+
 
 ## Contact Me
 
@@ -76,6 +80,7 @@ Feel free to reach out to me through various channels. I'm always open to connec
 
   
 </p>
+
 
 ### Local & Phone
 - 📍 Location: Brahmanbaria, Chittagong, Bangladesh
