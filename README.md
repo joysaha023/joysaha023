@@ -77,8 +77,9 @@ Feel free to reach out to me through various channels. I'm always open to connec
   <a href="mailto:joysahacse23@gmail.com">
     <img width="50px" height="50px" src="https://github.com/joysaha023/joysaha023/blob/main/Gmail%20logo.png" alt="Email"/>
   </a>
+ 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/trishon-baidaya-shontu/">
+  <a href="https://www.linkedin.com/in/joysaha23">
     <img width="50px" height="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
   </a>
 
