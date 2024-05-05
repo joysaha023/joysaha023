@@ -52,7 +52,7 @@
 
 <br />
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=joysaha023&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=joysaha023&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 <br />
 <p align="center">
