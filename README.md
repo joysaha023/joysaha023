@@ -56,7 +56,7 @@
 </p>
 <br />
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TrishonBaidaya7399&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joysaha023&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 
@@ -70,9 +70,3 @@
 </p>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joysaha023&show_icons=true&locale=en&layout=compact" alt="joysaha023" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joysaha023&show_icons=true&locale=en" alt="joysaha023" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joysaha023&" alt="joysaha023" /></p>
