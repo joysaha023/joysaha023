@@ -2,21 +2,13 @@
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋+Welcome+to+My+Profile!;I+am+Frontend+Developer;I+am+MERN+Stack+Developer;Always+learning+new+things+;)](https://git.io/typing-svg)
- 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joysaha023&label=Profile%20views&color=0e75b6&style=flat" alt="joysaha023" /> </p>
+ ## Description
 
-<p align="left"> <a href="https://twitter.com/joysaha023" target="blank"><img src="https://img.shields.io/twitter/follow/joysaha023?logo=twitter&style=for-the-badge" alt="joysaha023" /></a> </p>
-
-- 🔭 I’m currently working on **E-Commerce Website**
-
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 💬 Ask me about **JavaScript, ReactJS**
-
-- 📫 How to reach me **joysahacse23@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+<br />
+<p align="left">
+  Specializing in MERN (MongoDB, Express.js, React.js, Node.js) stack development, I design and build robust web applications. My work involves creating dynamic and responsive user interfaces, optimizing server-side functionalities, and leveraging the power of MongoDB for efficient data management. With a passion for clean code and innovative solutions, I bring ideas to life in the ever-evolving landscape of MERN development. Let's connect and elevate your web experience together!
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
