@@ -17,9 +17,11 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/joysaha023?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
       </a>
    </p>
+   <br />
 
 
 ## Technologies
+<br />
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git" />
@@ -48,6 +50,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joysaha023&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
+<br />
 
 
 ## Activities
@@ -60,6 +63,7 @@
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joysaha023&theme=tokyonight&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </p>
+<br />
 
 
 ## Contact Me
