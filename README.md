@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joy Saha</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋+Welcome+to+My+Profile!;I+am+Frontend+Developer;I+am+MERN+Stack+Developer;Always+learning+new+things+;)](https://git.io/typing-svg)
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joysaha023&label=Profile%20views&color=0e75b6&style=flat" alt="joysaha023" /> </p>
 
