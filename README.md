@@ -10,6 +10,38 @@
   Specializing in MERN (MongoDB, Express.js, React.js, Node.js) stack development, I design and build robust web applications. My work involves creating dynamic and responsive user interfaces, optimizing server-side functionalities, and leveraging the power of MongoDB for efficient data management. With a passion for clean code and innovative solutions, I bring ideas to life in the ever-evolving landscape of MERN development. Let's connect and elevate your web experience together!
 </p>
 
+   <p align="left">
+      <a href="https://github.com/joysaha023?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/joysaha023?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+      <a href="https://github.com/joysaha023?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/joysaha023?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      </a>
+   </p>
+
+
+## Technologies
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=figma,tailwind,materialui,firebase,redux,photoshop" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=c,java,vite,bootstrap,scss" />
+  </a>
+</p>
+<br>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
