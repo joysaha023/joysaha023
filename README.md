@@ -7,7 +7,7 @@
 
  ## Description
 <p align="left">
-  Specializing in MERN (MongoDB, Express.js, React.js, Node.js) stack development, I design and build robust web applications. My work involves creating dynamic and responsive user interfaces, optimizing server-side functionalities, and leveraging the power of MongoDB for efficient data management. With a passion for clean code and innovative solutions, I bring ideas to life in the ever-evolving landscape of MERN development. Let's connect and elevate your web experience together!
+  I am Joy Saha, a recent Computer Science graduate from Kurukshetra University, class of 2023. With a strong academic background in computer science, I've embarked on a journey to master the MERN (MongoDB, Express.js, React.js, Node.js) stack. This comprehensive learning experience has equipped me with the skills to design and develop dynamic web applications effectively. I'm deeply committed to staying abreast of the latest technological advancements, ensuring that I can contribute meaningfully to the field of software development. With a collaborative mindset and a passion for problem-solving, I'm excited to leverage my expertise in the MERN stack to tackle challenging projects and drive impactful outcomes.
 </p>
 
    <p align="left">
