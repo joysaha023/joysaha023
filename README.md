@@ -95,3 +95,5 @@ Feel free to connect with me on social media or drop me an email. I'm excited to
 <br />
 
 
+![Waves](https://github.com/joysaha023/joysaha023/blob/main/wave.svg)
+
