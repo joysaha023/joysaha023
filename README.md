@@ -1,4 +1,4 @@
-<!-- <img src="https://github.com/TrishonBaidaya7399/TrishonBaidaya7399/blob/main/Github%20Banner.png?raw=true" />  -->
+<img src="https://github.com/joysaha023/joysaha023/blob/main/banner.png" />
 <h1 align="center">Hi 👋, I'm Joy Saha</h1>
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40'/>
 
@@ -88,7 +88,7 @@ Feel free to reach out to me through various channels. I'm always open to connec
 
 
 ### Local & Phone
-- 📍 Location: Brahmanbaria, Chittagong, Bangladesh
+- 📍 Location: Dhaka, Bangladesh
 - 📞 Phone: +88 01861490690
 
 Feel free to connect with me on social media or drop me an email. I'm excited to hear from you!
