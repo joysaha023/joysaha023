@@ -5,7 +5,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&center=true&width=1000&lines=Hi+there+👋+Welcome+to+My+Profile!;I+am+Frontend+Developer;I+am+MERN+Stack+Developer;Always+learning+new+things+;)](https://git.io/typing-svg)
 
 
- ## Description
+ ## Overview
 <p align="left">
   I am Joy Saha, a recent Computer Science graduate from Kurukshetra University, class of 2023. With a strong academic background in computer science, I've embarked on a journey to master the MERN (MongoDB, Express.js, React.js, Node.js) stack. This comprehensive learning experience has equipped me with the skills to design and develop dynamic web applications effectively. I'm deeply committed to staying abreast of the latest technological advancements, ensuring that I can contribute meaningfully to the field of software development. With a collaborative mindset and a passion for problem-solving, I'm excited to leverage my expertise in the MERN stack to tackle challenging projects and drive impactful outcomes.
 </p>
